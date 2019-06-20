@@ -1,0 +1,15 @@
+{
+    "session_hours": [
+        9,
+        13,
+        17,
+        22
+    ],
+    "max_follows_per_day": 200,
+    "max_unfollows_per_day": 200,
+    "sessions_today": 3,
+    "request_sleep_time": 4,
+    "request_deviation_time": 2,
+    "unfollow_days": 3,
+    "video_to_upload": 38
+}
