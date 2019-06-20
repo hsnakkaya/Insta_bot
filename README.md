@@ -13,3 +13,6 @@ A work in progress of an instagram bot
 -every day it follows and unfollows a specified amount of users according to the "human behaviour" scheme
 
 -waits specified amount of days for users to follow back, if not if puts them in the unfollow que
+
+
+[@makina_dunyasi](https://www.instagram.com/makina_dunyasi/)
